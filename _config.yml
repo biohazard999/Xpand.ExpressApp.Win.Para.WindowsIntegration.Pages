@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /Xpand.ExpressApp.Win.Para.WindowsIntegration.Pages
+exclude: ['README.md']
